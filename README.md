@@ -1,1 +1,3 @@
 # House-Price-Prediction-using-Linear-Regression-and-Polynomial-Regression
+
+House prices increase every year, so there is a need for a system to predict house prices in the future. House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are many factors that influence the price of a house some of which include their location, size and proximity to areas of interest/ convenience. So, with the advent of data mining and machine learning algorithms we aim to develop a model capable of predicting the prices of houses based on a particular dataset including features such as population, median income, and median house prices for each block group in a city.
